@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height:200px;
+    background-color: #005E90;
+    
+}
+.logo{
+    display: flex;
+}
+.reserva-sala{
+    color: #ffff;
+    text-align: center;
+}
+.nav-link{
+    color: #ffff;
+    
+}
